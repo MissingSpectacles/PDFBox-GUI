@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns:fx="http://javafx.com/fxml/1"
+          xmlns="http://javafx.com/javafx/11.0.1" fx:controller="application.controllers.MainMenuController">
+   <columnConstraints>
+      <ColumnConstraints/>
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0"/>
+      <ColumnConstraints/>
+      <ColumnConstraints minWidth="10.0" prefWidth="100.0"/>
+      <ColumnConstraints/>
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="30.0"/>
+      <RowConstraints/>
+      <RowConstraints/>
+      <RowConstraints/>
+      <RowConstraints minHeight="10.0" prefHeight="30.0"/>
+   </rowConstraints>
+   <Label text="Apache PDFBox GUI" GridPane.columnIndex="2" GridPane.rowIndex="1">
+      <font>
+         <Font size="96.0"/>
+      </font>
+   </Label>
+   <Button mnemonicParsing="false" onAction="#extractImages" text="Extract Images"
+           GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="2"/>
+   <Button mnemonicParsing="false" onAction="#mergePdfs" text="Merge PDFs" GridPane.columnIndex="2"
+           GridPane.halignment="CENTER" GridPane.rowIndex="3"/>
+</GridPane>
