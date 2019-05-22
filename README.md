@@ -4,11 +4,18 @@
 
 I made this because every PDF tool requires purchasing before I can edit them.  
 I only need to merge PDFs and extract images from PDF.  
-The only open source PDF tool is [Apache PDFBox](https://pdfbox.apache.org/), but the easy way to use it is via the [Command Line Tools](https://pdfbox.apache.org/2.0/commandline.html).  
+I am most familiar with Java and the only open source Java PDF tool is [Apache PDFBox](https://pdfbox.apache.org/),  
+but the easy way to use it is via the [Command Line Tools](https://pdfbox.apache.org/2.0/commandline.html).  
 Hence, I made a GUI out of it with JavaFX.  
-Any correction is appreciated.  
+Any critic and advice is appreciated.  
 
 ## Specification
+
+### Note
+
+Previously, I used JDK 12, JavaFX 12, and Scene Builder 11, but resulted in many issues.  
+Then, I installed JDK 8 with Scene Builder 8, which works but console shows incompatibility warning.  
+Should any issue rises, feel free to report it.  
 
 ### Build Tool
 
