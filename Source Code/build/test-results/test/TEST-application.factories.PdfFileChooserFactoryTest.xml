@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="application.factories.PdfFileChooserFactoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-22T04:03:48" hostname="DESKTOP-ABKKQKO" time="0.092">
+<testsuite name="application.factories.PdfFileChooserFactoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-22T06:57:40" hostname="DESKTOP-ABKKQKO" time="0.091">
   <properties/>
-  <testcase name="testFileChooserExtensionFilters" classname="application.factories.PdfFileChooserFactoryTest" time="0.09"/>
-  <testcase name="createPdfFileChooser" classname="application.factories.PdfFileChooserFactoryTest" time="0.001"/>
+  <testcase name="testFileChooserExtensionFilters" classname="application.factories.PdfFileChooserFactoryTest" time="0.089"/>
+  <testcase name="createPdfFileChooser" classname="application.factories.PdfFileChooserFactoryTest" time="0.0"/>
   <testcase name="testFileChooserTitle" classname="application.factories.PdfFileChooserFactoryTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="application.preventSystemExit.PreventSystemExitSecurityManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-22T04:03:48" hostname="DESKTOP-ABKKQKO" time="0.004">
+<testsuite name="application.preventSystemExit.PreventSystemExitSecurityManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-22T06:57:40" hostname="DESKTOP-ABKKQKO" time="0.004">
   <properties/>
   <testcase name="testPreventSystemExit" classname="application.preventSystemExit.PreventSystemExitSecurityManagerTest" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
