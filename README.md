@@ -9,6 +9,13 @@ but the easy way to use it is via the [Command Line Tools](https://pdfbox.apache
 Hence, I made a GUI out of it with JavaFX.  
 Any critic and advice is appreciated.  
 
+## How to Use
+
+For windows, launch `start-gui.cmd`.  
+For non-windows, cd into `./Source Code/build/libs/` then `java -jar PDFBoxGUI-0.0-SNAPSHOT.jar`,  
+or `java -jar "./Source Code/build/libs/PDFBoxGUI-0.0-SNAPSHOT.jar"`.  
+Mind the quote (`"`)
+
 ## Specification
 
 ### Note
