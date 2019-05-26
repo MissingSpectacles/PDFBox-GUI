@@ -16,7 +16,7 @@ plugins {
 
 apply plugin: 'java'
 
-group 'PDFBoxGUI'
+group 'PDFBox GUI'
 version '0.0-SNAPSHOT'
 
 sourceCompatibility = 1.8

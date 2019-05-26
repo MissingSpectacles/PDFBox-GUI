@@ -9,7 +9,7 @@
 
 
 <VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
-      prefHeight="375.0" prefWidth="600.0" spacing="20.0" xmlns="http://javafx.com/javafx/11.0.1"
+      prefHeight="375.0" prefWidth="600.0" spacing="20.0" xmlns="http://javafx.com/javafx/8.0.171"
       xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controllers.MergePdfsController">
    <VBox prefHeight="254.0" prefWidth="600.0" spacing="20.0">
       <VBox.margin>
