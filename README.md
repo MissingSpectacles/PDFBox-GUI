@@ -11,10 +11,9 @@ Any critic and advice is appreciated.
 
 ## How to Use
 
-For windows, launch `start-gui.cmd`.  
-For non-windows, cd into `./Source Code/build/libs/` then `java -jar PDFBoxGUI-0.0-SNAPSHOT.jar`,  
+Windows: "RUN-APPLICATION-(NATIVE).cmd".  
+Non-windows: "RUN-APPLICATION-(JAR).cmd".  
 or `java -jar "./Source Code/build/libs/PDFBoxGUI-0.0-SNAPSHOT.jar"`.  
-Mind the quote (`"`)
 
 ## Specification
 
